@@ -6,8 +6,6 @@ I'm a passionate about learning and new challenges.
 
 Reach me out 👇🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natalia-souza-559761206/)](https://www.linkedin.com/in/natalia-souza-559761206/) 
-
 <!--
 **NataliaSRiber/NataliaSRiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
