@@ -4,8 +4,6 @@
 My name is Natalia, I'm from Brazil 🇧🇷 and I'm a Web Developer Student at Trybe since March 8th 2021 💻😀.
 I'm a passionate about learning and new challenges.
 
-Reach me out 👇🏾
-
 <!--
 **NataliaSRiber/NataliaSRiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
