@@ -2,7 +2,7 @@
 
 ### About me 👩🏿‍💻:
 
-My name is Natalia, I'm from Brazil 🇧🇷 and I'm a Web Developer Student at Trybe since March 8th 2021 💻😀.
+My name is Natalia, I'm from Brazil 🇧🇷 and I'm a Software Developer Student at Trybe since March 8th 2021 💻😀.
 I'm a passionate about learning and new challenges.
 
  <div>
