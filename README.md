@@ -16,14 +16,15 @@
   <img align="center"src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank">
  <img align="center" alt="Naty-git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg">
    <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="jest" width="50" height="50"/> 
-  <div>
-
- <div> 
-  <div style="display: inline_block"><br>
-   <h3 align="left">I’m currently learning:</h3>
-   <img align="center" alt="Naty-mysql" height="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
+    <img align="center" alt="Naty-mysql" height="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
    <img align="center" alt="Naty-HTML" height="50" width="50"        src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg">  
   <div>
+
+<!--  <div> 
+  <div style="display: inline_block"><br>
+   <h3 align="left">I’m currently learning:</h3>
+
+  <div> -->
    
    <h3 align="left"> How to reach me 👇🏾:</h3>
    <a href = "mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  height="40"    align="center" target="_blank"></a>
