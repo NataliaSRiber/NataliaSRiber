@@ -19,12 +19,16 @@
     <img align="center" alt="Naty-mysql" height="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
    <img align="center" alt="Naty-HTML" height="50" width="50"        src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg">  
   <div>
+   <img align="center" alt="Naty-node.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="Naty-express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">  
+  <div>
 
-<!--  <div> 
+ <div> 
   <div style="display: inline_block"><br>
    <h3 align="left">I’m currently learning:</h3>
+   <img align="center" alt="Naty-heroku" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> 
 
-  <div> -->
+  <div>
    
    <h3 align="left"> How to reach me 👇🏾:</h3>
    <a href = "mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  height="40"    align="center" target="_blank"></a>
