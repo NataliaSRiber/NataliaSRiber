@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="left"> Interesses Pessoais:</h3>
-No meu tempo livre gosto de sair ao livre para caminhar, cozinhar, assistir séries e jogos eletrônicos;
+No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jogos eletrônicos;
   
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block"><br>
