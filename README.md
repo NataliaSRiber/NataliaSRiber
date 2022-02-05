@@ -27,15 +27,12 @@
   <div style="display: inline_block"><br>
    <h3 align="left">I’m currently learning:</h3>
    <img align="center" alt="Naty-heroku" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> 
-
-  <div>
-   
-   <h3 align="left"> How to reach me 👇🏾:</h3>
-   <a href = "mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  height="40"    align="center" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro-559761206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" align="center" target="_blank"></a> 
- </div>
- <br>
-    <br>
+  
+<div> 
+  <h3 align="left"> How to reach me 👇🏾:</h3>
+  <a href = "mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro-559761206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
    
  <div align="center">
    <a href="https://github.com/NataliaSRiber">
