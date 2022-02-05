@@ -3,7 +3,7 @@
 
 <div>
  <h3 align="left"> Sobre Mim: 👩🏿‍💻:</h3>
- Meu nome é Natalia. Sou Engenheira de Produção e Mestra em Engenharia de Energia e atualmente estou em transição de carreira estudando <strong>Desenvolvimento    Web Full Stack na Trybe</strong> desde 2021 e estou encantada com o mundo da tecnologia.
+ Meu nome é Natalia. Sou Engenheira de Produção e Mestra em Engenharia de Energia e atualmente estou em transição de carreira estudando <strong>Desenvolvimento    Web Full Stack na Trybe</strong> desde 2021 e estou me surpreendendo com o mundo da tecnologia.
  Sou uma pessoa que adora novos desafios, conhecer pessoas e de aprender coisas novas. 
 </div>
 
