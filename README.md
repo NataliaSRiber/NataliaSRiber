@@ -10,7 +10,7 @@
 <h3 align="left"> Interesses Pessoais:</h3>
 No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jogos eletrônicos;
   
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Naty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Naty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,17 +20,22 @@ No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jog
   <img align="center"src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="30"/> </a> <a href="https://www.linux.org/" target="_blank">
   <img align="center" alt="Naty-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg">
   <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="jest" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" align="center" alt="Naty-slack" height="30" width="40" />
   <img align="center" alt="Naty-mysql" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Naty-HTML" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" alt="Naty-HTML" height="40" width="40" />
 </div>
+
+<h3 align="left">Ferramentas:</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Naty-slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Naty-TrelloL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
  
  <h3 align="left">O que estou aprendendo:</h3>
  <div style="display: inline_block"><br>
    <img align="center" alt="Naty-express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="Naty-node.js" height="40" width="40" />
-   <img align="center" alt="Naty-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> 
+   <img align="center" alt="Naty-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+  <img align="center" alt="Naty-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
 </div>
  
 <div>   
