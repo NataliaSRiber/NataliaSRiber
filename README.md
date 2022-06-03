@@ -3,7 +3,8 @@
 
 <div>
  <h3 align="left"> Sobre Mim: 👩🏿‍💻:</h3>
- Meu nome é Natalia. Sou Engenheira de Produção e Mestra em Engenharia de Energia e atualmente estou em transição de carreira estudando <strong>Desenvolvimento    Web Full Stack na Trybe</strong> desde 2021 e estou me surpreendendo com o mundo da tecnologia.
+ Meu nome é Natalia. Sou Engenheira de Produção e Mestra em Engenharia de Energia e atualmente estou em transição de carreira, trabalhando como   Desenvolvedora Full Stack na Alô Bebê desde março de 2022. 
+ Comecei estudando Desenvolvimento Web na Trybe em 2021 e cada dia tenho me surpreendido ainda mais com o mundo da tecnologia.
  Sou uma pessoa que adora novos desafios, conhecer pessoas e de aprender coisas novas. 
 </div>
 
@@ -36,6 +37,9 @@ No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jog
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="Naty-node.js" height="40" width="40" />
    <img align="center" alt="Naty-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Naty-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+ 
 </div>
  
 <div>   
