@@ -23,7 +23,6 @@ No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jog
   <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="jest" width="40" height="40"/>
   <img align="center" alt="Naty-mysql" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Naty-HTML" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" alt="Naty-HTML" height="40" width="40" />
   <img align="center" alt="Naty-express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="Naty-node.js" height="40" width="40" />
 </div>
