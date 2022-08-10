@@ -51,9 +51,9 @@ No meu tempo livre gosto de caminhar, cozinhar, assistir séries, bordados e jog
  
 <br>
 <div align="center">
-  <a href="https://github.com/NataliaSRiber">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=NataliaSRiber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSRiber&layout=compact&langs_count=7&theme=dracula"/>
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=NataliaSRiber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSRiber&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
  <!--
