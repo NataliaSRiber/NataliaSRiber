@@ -57,21 +57,41 @@ I'm a Full Stack Developer with a passion for learning and new challenges.
   <a href="https://jest.io/docs/v4/">
     <img src="https://img.shields.io/badge/jest-339933?style=for-the-badge&logo=jest&color=black" /> 
   </a>
+   <a href="https://testing-library.com/">
+    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=black" />
+  </a>
     <a href="https://graphql.io/docs/v4/">
     <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=black" /> 
   </a>
-</div>
-
- <h3 align="left">Currently learning:</h3>
- <div style="display: inline_block"><br>
-  <a href="https://tailwindcss.com/docs">
+    <a href="https://tailwindcss.com/docs">
     <img src="https://img.shields.io/badge/TailwindCSS-339933?style=for-the-badge&logo=tailwind-css&color=black" />
   </a>
     <a href="https://Next-black.com/docs">
     <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&color=black" />
   </a>
- 
+    <a href="https://styled-components.com/docs">
+    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=black" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=black" />
+  </a>
+    <a href="https://sequelize.org/">
+    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=black" />
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=black" /> 
+  </a>
+    <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=black" />
+  </a>
+
 </div>
+
+ <h3 align="left">Currently learning:</h3>
+ <div style="display: inline_block">
+ <h4>UX Design</h4>
+ </div>
+ <br>
  
 <div>   
   <h3 align="left"> How to reach me:</h3>
