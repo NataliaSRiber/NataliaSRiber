@@ -89,7 +89,7 @@ I'm a Manufacturing Engineer. Also, I'm MSc. in Energy Engineering. Currently, I
 
  <h3 align="left">Currently learning:</h3>
  <div style="display: inline_block">
- <h4>UX Design</h4>
+ <h4>UX Design and Java</h4>
  </div>
  <br>
  
