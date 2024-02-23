@@ -84,6 +84,9 @@ I'm a Manufacturing Engineer. Also, I'm MSc. in Energy Engineering. Currently, I
     <a href="https://dev.mysql.com/doc/">
     <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=black" />
   </a>
+    <a href="https://dev.python.com/doc/">
+    <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=black" />
+  </a>
 
 </div>
 
