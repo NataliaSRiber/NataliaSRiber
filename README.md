@@ -4,7 +4,7 @@
 
 <div>
  <h3 align="left"> About me 👩🏿‍💻:</h3>
-I'm a Manufacturing Engineer. Also, I'm MSc. in Energy Engineering. Currently, I'm a Full Stack Developer with a passion for learning and new challenges.
+ I'm a Full Stack Developer with a passion for learning and new challenges.
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
