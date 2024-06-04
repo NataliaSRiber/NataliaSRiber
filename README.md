@@ -6,6 +6,7 @@
  <h3 align="left"> About me 👩🏿‍💻:</h3>
  I'm a Full Stack Developer with a passion for learning and new challenges.
 </div>
+
   
 <h3 align="left">Languages and Tools:</h3>
 
@@ -94,6 +95,7 @@
  <div style="display: inline_block">
  <h4>Angular and Java</h4>
  </div>
+  Link to my <a href ="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio:</a>
  <br>
  
 <div>   
