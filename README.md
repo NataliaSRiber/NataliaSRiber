@@ -88,6 +88,7 @@
 </div>
      
 <br></br>
+
 <div>
   <h3 align="left">Currently learning:</h3>
 <div style="display: inline_block">
