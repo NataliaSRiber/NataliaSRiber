@@ -104,7 +104,7 @@
 
 <div>
   <h3 align="left">How to reach me:</h3>
-  <a href="https://www.linkedin.com/in/nataliaribeiro/" target="_blank">
+  <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px" height="40px">
   </a>
   <a href="mailto:snataliaribeiro@unifei.edu.br" target="_blank">
