@@ -91,9 +91,7 @@
 
 <div>
   <h3 align="left">Currently learning:</h3>
-<div style="display: inline_block">
   <h4>Angular and Java</h4>
-</div>
   Link to my <a href ="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio:</a>
 </div>
 
