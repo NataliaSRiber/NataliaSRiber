@@ -90,12 +90,12 @@
 <br></br>
 
 <div>
-  <h3 align="left">Currently learning:</h3>
-  <h4>Angular and Java</h4>
+ <h3 align="left"> Currently learning:</h3>
+   <h4>Angular and Java</h4>
   Link to my <a href ="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio:</a>
 </div>
 
- <br>
+<br>
  
 <div>   
   <h3 align="left"> How to reach me:</h3>
