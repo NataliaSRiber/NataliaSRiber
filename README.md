@@ -14,19 +14,19 @@
     <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=black" height="30px />
   </a>
   <a href="https://www.w3schools.com/cssref/">
-    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=black" height="30px />
   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=black" height="30px  />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=black" height="30px />
   </a>
   <a href="https://typescript.info/">
-    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=black" height="30px />
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=black" height="30px />
   </a>
-   <a href="https://sequelize.org/">
-    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=black" height="30px  />
+  <a href="https://sequelize.org/">
+    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=black" height="30px />
   </a>
   <a href="https://docs.npmjs.com/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black" height="30px  />
@@ -85,6 +85,7 @@
     <a href="https://dev.python.com/doc/">
     <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=black" height="30px  />
   </a>
+     </a>
 </div>
      
 <br></br>
