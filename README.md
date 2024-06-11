@@ -85,7 +85,6 @@
     <a href="https://dev.python.com/doc/">
     <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=black" height="30px  />
   </a>
-     </a>
 </div>
      
 <br></br>
