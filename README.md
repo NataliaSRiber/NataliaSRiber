@@ -89,7 +89,14 @@
 
 <div style="background-color:#f0f0f0; padding: 15px; border-radius: 10px;">
  <h3 align="left">Currently learning:</h3>
- <h4>Angular and Java</h4>
+ <div>
+   <a href="https://angular.info/">
+     <img src="https://img.shields.io/badge/angular-339933?style=for-the-badge&logo=angular&color=555555" height="30px" />
+   </a>
+     <a href="https://java.info/">
+     <img src="https://img.shields.io/badge/java-339933?style=for-the-badge&logo=java&color=555555" height="30px" />
+   </a>
+ </div>
  Link to my <a href="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio</a>
 </div>
 
@@ -103,7 +110,6 @@
   <br>
   <div style="font-size: 18px; color: #333;">Email me: <a href="nataliaribeiro@unifei.edu.br">nataliaribeiro@unifei.edu.br</a></div>
 </div>
-
 
 <br>
 
