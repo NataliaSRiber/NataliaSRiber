@@ -1,114 +1,117 @@
 <h1 align="center">Hi 👋🏿, My name is Natalia!</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-
 <div>
- <h3 align="left"> About me 👩🏿‍💻:</h3>
- I'm a Full Stack Developer with a passion for learning and new challenges.
+ <h3 align="left">About me 👩🏿‍💻:</h3>
+ <p>I'm a Full Stack Developer with a passion for learning and new challenges.</p>
 </div>
-  
-<h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <a href="https://javascript.info/">
-    <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=black" height="30px />
+    <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=blue" height="30px" />
   </a>
   <a href="https://www.w3schools.com/cssref/">
-    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=black" height="30px />
+    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=blue" height="30px" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=black" height="30px />
+    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=blue" height="30px" />
   </a>
   <a href="https://typescript.info/">
-    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=black" height="30px />
+    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=blue" height="30px" />
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=black" height="30px />
+    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=blue" height="30px" />
   </a>
   <a href="https://sequelize.org/">
-    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=black" height="30px />
+    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=blue" height="30px" />
   </a>
   <a href="https://docs.npmjs.com/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=blue" height="30px" />
   </a>
   <a href="https://fastify.com/pt-br/">
-    <img src="https://img.shields.io/badge/fastify-339933?style=for-the-badge&logo=fastify&color=black" height="30px  /> 
+    <img src="https://img.shields.io/badge/fastify-339933?style=for-the-badge&logo=fastify&color=blue" height="30px" />
   </a>
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/sqlite-339933?style=for-the-badge&logo=sqlite&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/sqlite-339933?style=for-the-badge&logo=sqlite&color=blue" height="30px" />
   </a>
   <a href="https://socket.io/docs/v4/">
-    <img src="https://img.shields.io/badge/nestJs-339933?style=for-the-badge&logo=nestjs&color=black" height="30px  /> 
+    <img src="https://img.shields.io/badge/nestJs-339933?style=for-the-badge&logo=nestjs&color=blue" height="30px" />
   </a>
   <a href="https://redux.org/">
-    <img src="https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&color=blue" height="30px" />
   </a>
   <a href="https://docs.express.com/">
-    <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&color=blue" height="30px" />
   </a>
   <a href="https://mongodb.com/pt-br/">
-    <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&color=black" height="30px  /> 
+    <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&color=blue" height="30px" />
   </a>
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=mysql&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
   </a>
   <a href="https://jest.io/docs/v4/">
-    <img src="https://img.shields.io/badge/jest-339933?style=for-the-badge&logo=jest&color=black" height="30px  /> 
+    <img src="https://img.shields.io/badge/jest-339933?style=for-the-badge&logo=jest&color=blue" height="30px" />
   </a>
-   <a href="https://testing-library.com/">
-    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=black" height="30px  />
+  <a href="https://testing-library.com/">
+    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=blue" height="30px" />
   </a>
-    <a href="https://graphql.io/docs/v4/">
-    <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=black" height="30px  /> 
+  <a href="https://graphql.io/docs/v4/">
+    <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=blue" height="30px" />
   </a>
-    <a href="https://tailwindcss.com/docs">
-    <img src="https://img.shields.io/badge/TailwindCSS-339933?style=for-the-badge&logo=tailwind-css&color=black" height="30px  />
+  <a href="https://tailwindcss.com/docs">
+    <img src="https://img.shields.io/badge/TailwindCSS-339933?style=for-the-badge&logo=tailwind-css&color=blue" height="30px" />
   </a>
-    <a href="https://Next-black.com/docs">
-    <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&color=black" height="30px  />
+  <a href="https://Next-black.com/docs">
+    <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&color=blue" height="30px" />
   </a>
-    <a href="https://styled-components.com/docs">
-    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=black" height="30px  />
+  <a href="https://styled-components.com/docs">
+    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=blue" height="30px" />
   </a>
   <a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=black" height="30px  />
+    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=blue" height="30px" />
   </a>
-    <a href="https://sequelize.org/">
-    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=black" height="30px  />
+  <a href="https://sequelize.org/">
+    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=blue" height="30px" />
   </a>
   <a href="https://www.prisma.io/">
-    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=black" height="30px  /> 
+    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=blue" height="30px" />
   </a>
-    <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=black" height="30px  />
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
   </a>
-    <a href="https://dev.python.com/doc/">
-    <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=black" height="30px  />
+  <a href="https://dev.python.com/doc/">
+    <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
   </a>
 </div>
-     
-<br></br>
+
+<br>
+
+<div style="background-color:#f0f0f0; padding: 15px; border-radius: 10px;">
+ <h3 align="left">Currently learning:</h3>
+ <h4>Angular and Java</h4>
+ Link to my <a href="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio</a>
+</div>
+
+<br>
 
 <div>
- <h3 align="left"> Currently learning:</h3>
-   <h4>Angular and Java</h4>
-  Link to my <a href ="https://natalia-portfolio-git-portfolio1-nataliasriber.vercel.app/">Portfolio:</a>
+  <h3 align="left">How to reach me:</h3>
+  <a href="mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" align="center" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro-559761206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" align="center" target="_blank"></a>
 </div>
 
 <br>
- 
-<div>   
-  <h3 align="left"> How to reach me:</h3>
-  <a href = "mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"   align="center" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro-559761206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" align="center" target="_blank"></a> 
-</div>
- 
-<br>
+
 <div align="center">
-
-[![iuricode](https://github-readme-stats.vercel.app/api?username=NataliaSRiber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSRiber&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/NataliaSRiber">
+    <img src="https://github-readme-stats.vercel.app/api?username=NataliaSRiber&theme=radical" alt="Natalia's GitHub stats">
+  </a>
+  <a href="https://github.com/NataliaSRiber">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSRiber&hide=html&layout=compact&theme=radical" alt="Top Languages">
+  </a>
 </div>
+
 
  <!--
 **NataliaSRiber/NataliaSRiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
