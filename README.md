@@ -9,79 +9,79 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <a href="https://javascript.info/">
-    <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=555555" height="30px" />
   </a>
   <a href="https://www.w3schools.com/cssref/">
-    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=555555" height="30px" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=555555" height="30px" />
   </a>
   <a href="https://typescript.info/">
-    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=555555" height="30px" />
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=555555" height="30px" />
   </a>
   <a href="https://sequelize.org/">
-    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/react_native-339933?style=for-the-badge&logo=react&color=555555" height="30px" />
   </a>
   <a href="https://docs.npmjs.com/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=555555" height="30px" />
   </a>
   <a href="https://fastify.com/pt-br/">
-    <img src="https://img.shields.io/badge/fastify-339933?style=for-the-badge&logo=fastify&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/fastify-339933?style=for-the-badge&logo=fastify&color=555555" height="30px" />
   </a>
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/sqlite-339933?style=for-the-badge&logo=sqlite&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/sqlite-339933?style=for-the-badge&logo=sqlite&color=555555" height="30px" />
   </a>
   <a href="https://socket.io/docs/v4/">
-    <img src="https://img.shields.io/badge/nestJs-339933?style=for-the-badge&logo=nestjs&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/nestJs-339933?style=for-the-badge&logo=nestjs&color=555555" height="30px" />
   </a>
   <a href="https://redux.org/">
-    <img src="https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&color=555555" height="30px" />
   </a>
   <a href="https://docs.express.com/">
-    <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&color=555555" height="30px" />
   </a>
   <a href="https://mongodb.com/pt-br/">
-    <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&color=555555" height="30px" />
   </a>
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=mysql&color=555555" height="30px" />
   </a>
   <a href="https://jest.io/docs/v4/">
-    <img src="https://img.shields.io/badge/jest-339933?style=for-the-badge&logo=jest&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/jest-339933?style=for-the-badge&logo=jest&color=555555" height="30px" />
   </a>
   <a href="https://testing-library.com/">
-    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=555555" height="30px" />
   </a>
   <a href="https://graphql.io/docs/v4/">
-    <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=555555" height="30px" />
   </a>
   <a href="https://tailwindcss.com/docs">
-    <img src="https://img.shields.io/badge/TailwindCSS-339933?style=for-the-badge&logo=tailwind-css&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/TailwindCSS-339933?style=for-the-badge&logo=tailwind-css&color=555555" height="30px" />
   </a>
   <a href="https://Next-black.com/docs">
-    <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&color=555555" height="30px" />
   </a>
   <a href="https://styled-components.com/docs">
-    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=555555" height="30px" />
   </a>
   <a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=555555" height="30px" />
   </a>
   <a href="https://sequelize.org/">
-    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=555555" height="30px" />
   </a>
   <a href="https://www.prisma.io/">
-    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=555555" height="30px" />
   </a>
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=555555" height="30px" />
   </a>
   <a href="https://dev.python.com/doc/">
-    <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=blue" height="30px" />
+    <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=mysql&color=555555" height="30px" />
   </a>
 </div>
 
@@ -97,9 +97,13 @@
 
 <div>
   <h3 align="left">How to reach me:</h3>
-  <a href="mailto:nataliaribeiro@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" align="center" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natalia-de-souza-ribeiro-559761206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" align="center" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nataliaribeiro/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
+  <br>
+  <div style="font-size: 18px; color: #333;">Email me: <a href="nataliaribeiro@unifei.edu.br">nataliaribeiro@unifei.edu.br</a></div>
 </div>
+
 
 <br>
 
